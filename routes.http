@@ -18,9 +18,9 @@ Content-Type: audio/mpeg
 
 # @name create-ranscription
 
-POST http://localhost:3333/videos/95e9ff67-4ee5-4f0d-9af0-a335cc34599c/transcription
+POST http://localhost:3333/videos/3f01ca18-8014-4b25-b57b-1f0088b48b95/transcription
 Content-Type: application/json
 
 {
-  "prompt": "musica, telecinesia"
+  "prompt": "sweater weather, after dark"
 }
